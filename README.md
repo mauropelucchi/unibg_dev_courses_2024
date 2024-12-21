@@ -138,3 +138,5 @@ Exercizes
 - Text: [20200109](https://github.com/mauropelucchi/unibg_dev_courses_2024/blob/main/exams/te20200109.pdf) Solution: [20200109](https://github.com/mauropelucchi/unibg_dev_courses_2024/blob/main/exams/20200109.cpp)
 - Text: [20210122](https://github.com/mauropelucchi/unibg_dev_courses_2024/blob/main/exams/te20210122.pdf) Solution: [20210122](https://github.com/mauropelucchi/unibg_dev_courses_2024/blob/main/exams/te20210122.pdf)
 - Text: [20240117](https://github.com/mauropelucchi/unibg_dev_courses_2024/blob/main/exams/te20240117.pdf) Solution: [20240117](https://github.com/mauropelucchi/unibg_dev_courses_2024/blob/main/exams/20240117.cpp)
+- - Text: [20240702](https://github.com/mauropelucchi/unibg_dev_courses_2024/blob/main/exams/te20240702.pdf) Solution: [20240702](https://github.com/mauropelucchi/unibg_dev_courses_2024/blob/main/exams/20240702.cpp)
+- - Text: [20240618](https://github.com/mauropelucchi/unibg_dev_courses_2024/blob/main/exams/te20240618.pdf) Solution: [20240618](https://github.com/mauropelucchi/unibg_dev_courses_2024/blob/main/exams/20240618.cpp)
