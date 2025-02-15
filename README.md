@@ -125,7 +125,6 @@ Exercizes
 - [Structs](https://github.com/mauropelucchi/unibg_dev_courses_2024/blob/main/homeworks/5_structs.cpp)
 
 # Exams
-- Text: [20240117](https://github.com/mauropelucchi/unibg_dev_courses_2024/blob/main/exams/te20240117.pdf) 
 - [20151221](https://github.com/mauropelucchi/unibg_dev_courses_2024/blob/main/exams/20151221.cpp)
 - Text: [20200617](https://github.com/mauropelucchi/unibg_dev_courses_2024/blob/main/exams/te20200617.pdf) Solution: [20200617](https://github.com/mauropelucchi/unibg_dev_courses_2024/blob/main/exams/20200617.cpp)
 - Text: [20190222](https://github.com/mauropelucchi/unibg_dev_courses_2024/blob/main/exams/te20190222.pdf) Solution: [20190222](https://github.com/mauropelucchi/unibg_dev_courses_2024/blob/main/exams/20190222.cpp)
@@ -140,3 +139,4 @@ Exercizes
 - Text: [20240117](https://github.com/mauropelucchi/unibg_dev_courses_2024/blob/main/exams/te20240117.pdf) Solution: [20240117](https://github.com/mauropelucchi/unibg_dev_courses_2024/blob/main/exams/20240117.cpp)
 - Text: [20240702](https://github.com/mauropelucchi/unibg_dev_courses_2024/blob/main/exams/te20240702.pdf) Solution: [20240702](https://github.com/mauropelucchi/unibg_dev_courses_2024/blob/main/exams/20240702.cpp)
 - Text: [20240618](https://github.com/mauropelucchi/unibg_dev_courses_2024/blob/main/exams/te20240618.pdf) Solution: [20240618](https://github.com/mauropelucchi/unibg_dev_courses_2024/blob/main/exams/20240618.cpp)
+- Text: [20250115](https://github.com/mauropelucchi/unibg_dev_courses_2024/blob/main/exams/te20250115.pdf) Solution: [20240618](https://github.com/mauropelucchi/unibg_dev_courses_2024/blob/main/exams/20250115.cpp)
